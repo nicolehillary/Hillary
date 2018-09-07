@@ -1,5 +1,24 @@
 span {
 	color : 0C2E8E;
 	font-size : 20px;
+	
 }
 
+#span1 {
+	color : 010205;
+	font-size : 20px;
+	font-family: cursive;
+}
+#span2 {
+	color : A9272D;
+	font-size : 50px;
+	font-family: cursive;
+}
+#span3 {
+	color : 811217;
+	font-size : 20px;
+	}
+	#span4 {
+	font-size : 30px;
+	font-family: cursive;
+}
