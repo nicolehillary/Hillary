@@ -1,0 +1,21 @@
+.row > div {
+	padding :10px;
+	background: #EB8096;
+	border: 1px solid #fff;
+	
+}
+.row {
+	 margin: 40xp auto;	 
+ }
+ 
+ #div1 {
+	padding :10px;
+	background: #C36894   ;
+	border: 1px solid #fff;
+	}
+	
+ #div2 {
+	padding :10px;
+	background: #836890;
+	border: 1px solid #fff;
+	}
