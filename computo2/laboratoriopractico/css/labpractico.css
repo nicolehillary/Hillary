@@ -1,6 +1,6 @@
 .row > div {
 	padding :10px;
-	background:  #5D91BD   ;
+	background:#C10886  ;
 	border: 1px solid #fff;
 	
 }
@@ -17,10 +17,27 @@
  #div2 {
 	padding :10px;
 	background:#F0D0DB   ;
-	border: 1px solid #fff;
+	border: 3px solid #fff;
 	}
 h3{
 	color: #392A4B;
-	
+	font-size : 60px;
+	font-family : cursive;
 	}
+ #div3{
+    text-align:center;
+	background:#A83F65; 
+	font : 60px;
+	}
+	 #h3uno{
+	color: #392A4B;
+	font-size : 30px;
+	font-family : cursive;
+	}
+	 #h3dos{
+	color: #392A4B;
+	font-size : 30px;
+	font-family : cursive;
+	}
+	
 	
