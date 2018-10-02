@@ -1,11 +1,11 @@
 .row > div {
 	padding :10px;
-	background: #EB8096;
+	background:  #5D91BD   ;
 	border: 1px solid #fff;
 	
 }
 .row {
-	 margin: 40xp auto;	 
+	 margin: 20px auto;	 
  }
  
  #div1 {
@@ -16,6 +16,11 @@
 	
  #div2 {
 	padding :10px;
-	background: #836890;
+	background:#F0D0DB   ;
 	border: 1px solid #fff;
 	}
+h3{
+	color: #392A4B;
+	
+	}
+	
