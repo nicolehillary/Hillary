@@ -1,0 +1,8 @@
+Descripcion de problematica y situacion a resolver
+
+La tienda Lacteos Maria necesita una base de datos donde se pueda llevar el control
+de las ventas efectuadas por dia.
+
+La solucion a esta problematica es crear una base de datos que sea sencilla pero que tenga 
+lo necesario para poder llevar un buen control los campos a utilizar son:producto,
+onzas, libras, hora de la venta, hora y nombre del cliente.
